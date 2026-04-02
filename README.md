@@ -1,8 +1,4 @@
-<!-- 🔥 Cool Blue-Purple Gradient Header -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,50:6dd5ed,100:cc2b5e&height=170&section=header&text=Anand%20Dangi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
 
 <!-- ✨ Typing Animation -->
 
