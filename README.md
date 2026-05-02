@@ -91,9 +91,6 @@ const anand = {
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=500&color=888888&center=true&vCenter=true&width=400&lines=⭐+Star+repos+you+find+useful!;🤝+Open+to+collaborations;💬+Always+happy+to+connect" />
-</div>
 
 ---
 
